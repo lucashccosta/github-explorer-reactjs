@@ -1,3 +1,12 @@
+# Github Explorer
+> Explore projetos do Github!
+
+#### Github Explorer é uma aplicação que permite explorar os projetos do Github! Todo o código foi desenvolvido utilizando ReactJS com Styled Components.
+
+![](./github-images/github-explorer-img1.png)
+![](./github-images/github-explorer-img2.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
